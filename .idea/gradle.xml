@@ -9,5 +9,6 @@
         <option name="gradleHome" value="$PROJECT_DIR$/../../../../Program Files/gradle-6.6" />
       </GradleProjectSettings>
     </option>
+    <option name="offlineMode" value="true" />
   </component>
 </project>
